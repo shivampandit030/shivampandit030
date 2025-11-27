@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandit</h1>
 <h3 align="center">PHP Web Developer | Backend Development Enthusiast</h3>
+<h4 align="center">Passionate about building scalable backend systems & web applications</h4>
+
 
 ---
 
@@ -53,7 +55,7 @@
 
 
 ### 🔗 Connect With Me
-<p align="left">
+<p align="center">
 <a href="mailto:shivampandit030@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://github.com/shivampandit030"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
