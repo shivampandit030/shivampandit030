@@ -7,8 +7,8 @@
 
 ### 🚀 About Me
 - 💼 PHP Developer specializing in **Backend Development**
-- 🔭 Currently working with **CodeIgniter & Core PHP**
-- 🌱 Learning **Laravel** + **Shopify Custom Development**
+- 🔭 Currently working with **CodeIgniter, Laravel & Core PHP**
+- 🌱 Learning **Shopify Custom Development**
 - 👯 Open to collaborate on **Web Applications & REST APIs**
 - 💬 Ask me about **PHP, CodeIgniter, JavaScript, MySQL**
 - 📍 Faridabad, India
